@@ -1,6 +1,6 @@
 **DevOps scenario: Azure Web App, Azure Container Services and VSTS with Java tools and technologies. **
 
-**Summary**
+**Introduction**
 
 Since 1996, Java Platform has been a strong enterprise-grade technology used by many organizations across the world. Currently, there’s still an important number of enterprise customers which are using JEE-based architectures and dev tools.
 
